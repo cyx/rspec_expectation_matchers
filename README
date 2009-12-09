@@ -1,12 +1,14 @@
 RSpec Expectation Matchers for Rails
 ====================================
 
-A collection of RSpec expectation matchers for Rails projects
+A collection of RSpec expectation matchers for Rails projects. 
+
+This is just a mirror, originally from http://edgerepo.com/svn/opensource/ruby/plugins/rspec_expectation_matchers.
 
 Installation
 ============
 
-./script/plugin install [-x] http://edgerepo.com/svn/opensource/ruby/plugins/rspec_expectation_matchers
+./script/plugin install git://github.com/cyx/rspec_expectation_matchers.git
 
 
 Copyright (c) 2007 The EdgeCase, LLC, released under the MIT license
